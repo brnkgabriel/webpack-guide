@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NoteWorthy';
+  src: url('./Noteworthy-Lt.ttf') format('ttf');
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'NoteWorthy';
+  font-weight: bold;
+  background: url('./board-games.jpg');
+}
